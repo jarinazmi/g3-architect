@@ -341,6 +341,9 @@ footer {
   section.grid-section .flex {
     flex-direction: column;
   }
+  section.grid-section {
+    padding-top: 35px;
+  }
   .grid-item img {
     width: 100%;
   }
@@ -373,6 +376,7 @@ footer {
   .sponsor-item img {
     filter: grayscale(100%);
     margin-top: 20px;
+    width: 40%;
   }
   .sponsors {
     padding-bottom: 50px;
