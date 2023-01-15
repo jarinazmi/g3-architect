@@ -276,6 +276,16 @@ footer {
 }
 
 /* media queries */
+@media screen and (max-width: 1320px) and (min-width: 993px) {
+  .container {
+    max-width: 90%;
+  }
+  .sponsor-item img {
+    filter: grayscale(100%);
+    width: 75%;
+  }
+}
+
 @media screen and (max-width: 992px) {
   .logo {
     font-size: 25px;
