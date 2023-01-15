@@ -276,7 +276,7 @@ footer {
 }
 
 /* media queries */
-@media screen and (max-width: 1320px) and (min-width: 993px) {
+@media screen and (max-width: 1370px) and (min-width: 993px) {
   .container {
     max-width: 90%;
   }
